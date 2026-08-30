@@ -1,0 +1,44 @@
+medicamento1,medicamento2,codigo1,codigo2,severidade,descricao,recomendacao
+Dipirona,Amoxicilina,M01A-A14,J01CA04,Moderada,Pode aumentar risco de reações alérgicas,Monitorar reações de hipersensibilidade
+Ibuprofeno,Dipirona,M01AE01,M01A-A14,Crítica,Risco significativo de úlcera gástrica e sangramento,Evitar associação. Preferir monofarmácia analgésica
+Amoxicilina,Metformina,J01CA04,A10BA02,Leve,Pode reduzir eficácia da metformina,Monitorar níveis de glicose
+Ibuprofeno,Metoprolol,M01AE01,C07AB02,Moderada,AINE pode reduzir efeito anti-hipertensivo,Monitorar pressão arterial
+Simvastatina,Claritromicina,C10AA01,J01FA09,Crítica,Risco aumentado de miopatia e rabdomiólise,Evitar ou usar estatina alternativa
+Warfarina,Aspirina,B01AA03,N02BA01,Crítica,Aumenta risco de sangramento,Evitar associação ou monitorar INR rigorosamente
+Metformina,Contraste iodado,A10BA02,V08AE01,Grave,Risco de acidose lática,Suspender metformina 48h antes e após contraste
+Lisinopril,Potássio,C09AA01,C05AX01,Grave,Risco de hipercalemia,Monitorar potássio sérico regularmente
+Fluconazol,Terfenadina,D01AC15,R06AX26,Crítica,Aumenta nível de terfenadina - arritmias cardíacas,Evitar associação
+Fenobarbital,Fenitoína,N03AB01,N03AB02,Moderada,Possível interferência farmacocinética,Monitorar níveis séricos
+Amitriptilina,Álcool,N06AA09,V03AZ,Grave,Depressão do SNC potencializada,Evitar ingestão de álcool
+Metoprolol,Verapamil,C07AB02,C08DA01,Grave,Risco de bradicardia extrema e bloqueio AV,Evitar associação - alternativas disponíveis
+Digoxina,Espironolactona,C01AA05,C03DA01,Moderada,Aumenta níveis de digoxina - risco de toxicidade,Monitorar digoxinemia
+Teofilina,Ciprofloxacina,R03CC01,J01MA02,Moderada,Aumenta níveis de teofilina,Monitorar níveis séricos
+Cimetidina,Propranolol,A02BA01,C07AA05,Leve,Pode aumentar efeitos do propranolol,Monitorar frequência cardíaca
+Acetaminofeno,Álcool,N02BE01,V03AZ,Moderada,Risco aumentado de hepatotoxicidade,Limitar consumo de álcool
+Omeprazol,Clopidogrel,A02BC01,B01AC04,Grave,Reduz efeito antitrombótico do clopidogrel,Considerar alternativa ao omeprazol
+Antiácido contendo magnésio,Tetraciclina,A02AX,J01AA02,Moderada,Reduz absorção da tetraciclina,Separar administração em 2-4 horas
+Levotiroxina,Ferro,H03AA01,B03AA07,Moderada,Ferro reduz absorção de levotiroxina,Separar administração em 4-6 horas
+Metoclopramida,Ciclopropano,A03FA01,N01AB08,Leve,Possível interação sobre PA e FC,Monitorar sinais vitais
+Antiseptico iodado,Lítio,D08AG01,N05AN01,Moderada,Aumenta risco de litemia tóxica,Monitorar níveis de lítio
+Café,Varfarina,V03AZ,B01AA03,Leve,Café pode reduzir efeito anticoagulante,Manter ingestão consistente
+Cálcio,Bifosfonato,A12AX,M05BA,Moderada,Reduz absorção do bifosfonato,Separar administração em 2+ horas
+Aspirina,Metildopa,N02BA01,C02BA03,Leve,Possível redução do efeito anti-hipertensivo,Monitorar pressão arterial
+Prednisona,Antiácidos,H02AB07,A02AX,Leve,Antiácidos podem reduzir absorção,Separar administração
+Erva de São João,Contraceptivos orais,N06CA10,G03AA,Grave,Reduz eficácia contraceptiva,Usar método contraceptivo adicional
+Erva de São João,Warfarina,N06CA10,B01AA03,Grave,Reduz efeito anticoagulante da warfarina,Monitorar INR rigorosamente
+Fluoxetina,Tramadol,N06AB03,N02AX02,Grave,Risco de síndrome serotoninérgica,Evitar associação ou monitorar rigorosamente
+Venlafaxina,IMAO,N06AX16,N06AG,Crítica,Risco crítico de síndrome serotoninérgica,CONTRAINDICADO
+Tramadol,IMAO,N02AX02,N06AG,Crítica,Risco de síndrome serotoninérgica potencial,Evitar ou afastar doses
+Metadona,Rifampicina,N02AC54,J04AB02,Grave,Reduz níveis de metadona - síndrome de abstinência,Monitorar sinais de abstinência
+Quetiapina,Cetoconazol,N05AH04,D01AC08,Moderada,Aumenta níveis de quetiapina,Reduzir dose de quetiapina
+Citocromo P450 substratos,Cetoconazol,V03AZ,D01AC08,Moderada,Inibidor forte de CYP3A4,Monitorar toxicidade de substratos
+Ritonavir,Midazolam,J05AE03,N05CD08,Grave,Aumenta drasticamente níveis de midazolam,Evitar ou usar benzodiazepina alternativa
+Fentanila,Cetoconazol,N02AB03,D01AC08,Moderada,Aumenta concentração de fentanila,Reduzir dose e monitorar depressão respiratória
+Cigarretes,Teofillina,V03AZ,R03CC01,Moderada,Fumo induz metabolismo de teofilina,Monitorar níveis séricos
+Cafeína,Efedrina,V03AZ,R03CA24,Leve,Estimulação adrenérgica aumentada,Limitar ingestão de cafeína
+Álcool,Dissulfiram,V03AZ,N07BB01,Crítica,Reação tipo disulfiram - rubor facial até choque,Evitar qualquer ingestão de álcool
+Ácido acetilsalicílico,Naproxeno,N02BA01,M01AE02,Crítica,Aumenta risco de úlcera e sangramento GI,Usar apenas um AINE
+Omeprazol,Atazanavir,A02BC01,J05AE08,Moderada,Reduz absorção de atazanavir,Usar inibidor H2 ao invés de PPI
+Metronidazol,Álcool,J01XD01,V03AZ,Grave,Reação tipo dissulfiram,Evitar álcool durante tratamento
+Isoniazida,Fenitoína,J04AC01,N03AB02,Moderada,Aumenta níveis de fenitoína,Monitorar níveis séricos
+Rifampicina,Fenitoína,J04AB02,N03AB02,Moderada,Reduz níveis de fenitoína,Aumentar dose de fenitoína se necessário
