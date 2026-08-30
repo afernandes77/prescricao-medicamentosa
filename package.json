@@ -1,0 +1,30 @@
+{
+  "name": "prescricao-medicamentosa",
+  "version": "1.0.0",
+  "description": "Aplicação web para gerenciar prescrições de pacientes e identificar interações medicamentosas",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix backend & npm start --prefix frontend",
+    "backend": "npm start --prefix backend",
+    "frontend": "npm start --prefix frontend",
+    "build-backend": "npm install --prefix backend",
+    "build-frontend": "npm run build --prefix frontend",
+    "build": "npm run build-backend && npm run build-frontend",
+    "docker-up": "docker-compose up",
+    "docker-down": "docker-compose down",
+    "docker-build": "docker-compose build"
+  },
+  "keywords": [
+    "medicamentos",
+    "interações",
+    "prescrições",
+    "farmácia",
+    "saúde"
+  ],
+  "author": "Andrea C. Fernandes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afernandes77/prescricao-medicamentosa.git"
+  }
+}
